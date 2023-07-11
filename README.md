@@ -21,7 +21,8 @@ The aim of this project is to code a C library regrouping usual functions that y
 - [ft_strlen](./ft_strlen.c)
 
 - [ft_lstnew](./ft_lstnew.c)
-- [ft_lstadd_front.c](./ft_lstadd_front.c)
-- [ft_lstsize.c](./ft_lstsize.c)
-- [ft_lstlast.c](./ft_lstlast.c)
+- [ft_lstadd_front](./ft_lstadd_front.c)
+- [ft_lstsize](./ft_lstsize.c)
+- [ft_lstlast](./ft_lstlast.c)
+- [ft_lstadd_back](./ft_lstadd_back.c)
 
