@@ -11,5 +11,5 @@ The aim of this project is to code a C library regrouping usual functions that y
 `$>make` to build library.
 
 - [Header](./libft.h)
-- [ft_memset](./ft_memset)
+- [ft_memset](./ft_memset.c)
 
