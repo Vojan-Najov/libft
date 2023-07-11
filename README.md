@@ -13,4 +13,5 @@ The aim of this project is to code a C library regrouping usual functions that y
 - [Header](./libft.h)
 - [ft_memset](./ft_memset.c)
 - [ft_bzero](./ft_bzero.c)
+- [ft_memcpy](./ft_memcpy.c)
 
