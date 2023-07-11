@@ -16,4 +16,5 @@ The aim of this project is to code a C library regrouping usual functions that y
 - [ft_memcpy](./ft_memcpy.c)
 - [ft_memccpy](./ft_memccpy.c)
 - [ft_memmove](./ft_memmove.c)
+- [ft_memchr](./ft_memchr.c)
 
