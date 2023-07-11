@@ -6,4 +6,10 @@ The aim of this project is to code a C library regrouping usual functions that y
 
 - [Subject EN](./en.subject.pdf)
 
+## Solution
+
+`$>make` to build library.
+
+- [Header](./libft.h)
+- [ft_memset](./ft_memset)
 
