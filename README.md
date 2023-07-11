@@ -20,3 +20,5 @@ The aim of this project is to code a C library regrouping usual functions that y
 - [ft_memcmp](./ft_memcmp.c)
 - [ft_strlen](./ft_strlen.c)
 
+- [ft_lstnew](./ft_lstnew.c)
+
