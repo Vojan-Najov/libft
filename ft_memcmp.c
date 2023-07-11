@@ -24,3 +24,4 @@ int	ft_memcmp(const void *s1, const void *s2, size_t n)
 			return (*--ptr1 - *--ptr2);
 	return (0);
 }
+
