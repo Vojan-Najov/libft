@@ -10,19 +10,3 @@ The aim of this project is to code a C library regrouping usual functions that y
 
 `$>make` to build library.
 
-- [Header](./libft.h)
-- [ft_memset](./ft_memset.c)
-- [ft_bzero](./ft_bzero.c)
-- [ft_memcpy](./ft_memcpy.c)
-- [ft_memccpy](./ft_memccpy.c)
-- [ft_memmove](./ft_memmove.c)
-- [ft_memchr](./ft_memchr.c)
-- [ft_memcmp](./ft_memcmp.c)
-- [ft_strlen](./ft_strlen.c)
-
-- [ft_lstnew](./ft_lstnew.c)
-- [ft_lstadd_front](./ft_lstadd_front.c)
-- [ft_lstsize](./ft_lstsize.c)
-- [ft_lstlast](./ft_lstlast.c)
-- [ft_lstadd_back](./ft_lstadd_back.c)
-
